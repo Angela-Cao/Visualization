@@ -2,8 +2,8 @@ using Random
 using Plots
 gr()
 
-n = 10
-p = 0.9
+n = 20
+p = 0.5
 T = 30 # time step
 
 integers = collect(1:n)
